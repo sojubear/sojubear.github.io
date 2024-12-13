@@ -7,11 +7,7 @@ img: # Add image post (optional)
 tags: [Russia, Geopolitics] # add tag
 ---
 
-The FSB’s Role in Balancing Domestic Authority and Global Influence
-
 <img src="{{ site.baseurl }}\assets\img\posts\1_qqVUR2PrUusDJH52QvgHtg.webp" alt="Description of the image" class="center-image">
-
-# Understanding the Federal Security Service (FSB) and Its Geopolitical Impact
 
 Russia is a dominant player when it comes to intelligence operations. Among its different agencies, the Federal Security Service (FSB), the Foreign Intelligence Service (SVR), and the Main Intelligence Directorate (GRU) stand out due to their high-impact roles in intelligence gathering and operations. In this article, we will focus on the FSB and understand its roles, notable incidents, and geopolitical impact.
 
