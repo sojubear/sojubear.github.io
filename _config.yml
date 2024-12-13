@@ -13,10 +13,10 @@ author: Sojubear # add your name
 author-img: placeholder.jpg # add your photo
 about-author: Security Researcher | Threat Intelligence # add description
 social-twitter: SSojubear # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github:  # add your Github handle
+#social-facebook: # add your Facebook handle
+#social-github:  # add your Github handle
 social-linkedin: fernandezjeremy # add your Linkedin handle
-social-email: # add your Email address
+social-email: sadpandaburger@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: sojubear # add your discus identifier
