@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring Russia’s Disinformation Campaigns
-date: 2017-12-13 00:00:00 +0300
+date: 2024-12-13 00:00:00 +0300
 description: Exploring the history of such campaigns and its impact # Add post description (optional)
 img: # Add image post (optional)
 tags: [Russia, Geopolitics] # add tag
