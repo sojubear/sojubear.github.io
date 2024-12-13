@@ -1,40 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  {% include head.html %}
-</head>
-
+{% include head.html %}
 <body>
+
   <div class="wrapper">
-    <header>
-      <div class="header">
-        <h1><a href="{{ site.url | append: site.baseurl }}">{{ site.title }}</a></h1>
-        <p>{{ site.description }}</p>
-        <nav>
-          <ul>
-            <li><a href="{{ site.baseurl }}/">Home</a></li>
-            <li><a href="{{ site.baseurl }}/about/">About Me</a></li>
-            <!-- Add more navigation links here -->
-          </ul>
-        </nav>
-      </div>
-    </header>
-
-    <main>
-      <div class="content">
-        {{ content }}
-      </div>
-    </main>
-
-    <footer>
-      <div class="footer">
-        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
-      </div>
-    </footer>
+    {{ content }}
   </div>
-
+  
   {% include analytics.html %}
 </body>
-
 </html>
