@@ -11,7 +11,12 @@ site-twitter:  #if your site has a twitter account, enter it here
 # Author Settings
 author: Sojubear # add your name
 author-img: placeholder.jpg # add your photo
-about-author: Security Researcher | Threat Intelligence | Focused on the Russian threat landscape and adversary infrastructure research. I occasionally covering broader cybersecurity topics and insights on life. # add description
+about_author:
+  title: Security Researcher | Threat Intelligence
+  bio: |
+    🔹 **Focused on the Russian Threat Landscape**  
+    🔹 **Adversary Infrastructure Research**  
+    🔹 Occasionally covering broader cybersecurity topics and sharing insights on life.
 social-twitter: SSojubear # add your Twitter handle
 #social-facebook: # add your Facebook handle
 social-github:  sojubear # add your Github handle
