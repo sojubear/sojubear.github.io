@@ -11,7 +11,7 @@ site-twitter:  #if your site has a twitter account, enter it here
 # Author Settings
 author: Sojubear # add your name
 author-img: placeholder.jpg # add your photo
-about-author: Security Researcher | Threat Intelligence # add description
+about-author: Security Researcher | Threat Intelligence | I am a passionate and dedicated Cyber Threat Intelligence (CTI) analyst with a focus on building cutting-edge security frameworks and capabilities. With years of experience in both operational CTI analysis and the development of tools to enhance threat detection and response, I have honed my skills in adversary infrastructure research, malware analysis, and strategic threat intelligence. My work spans various sectors, and I am particularly focused on monitoring and mitigating threats posed by advanced persistent threats (APTs), including Russian and Chinese threat actors. My goal is to ensure that organizations can anticipate, identify, and respond to cyber threats with precision, using both human expertise and automated systems to maintain a resilient cybersecurity posture.
 social-twitter: SSojubear # add your Twitter handle
 #social-facebook: # add your Facebook handle
 social-github:  sojubear # add your Github handle
