@@ -11,15 +11,14 @@ site-twitter:  #if your site has a twitter account, enter it here
 # Author Settings
 author: Sojubear # add your name
 author-img: placeholder.jpg # add your photo
-about_author:
-  title: Security Researcher | Threat Intelligence
-  bio: |
-    🔹 **Focused on the Russian Threat Landscape**  
-    🔹 **Adversary Infrastructure Research**  
-    🔹 Occasionally covering broader cybersecurity topics and sharing insights on life.
+about-author: |
+  Security Researcher | Threat Intelligence  
+  Focused on the Russian threat landscape and adversary infrastructure research.  
+  I occasionally cover broader cybersecurity topics and insights on life.
+
 social-twitter: SSojubear # add your Twitter handle
 #social-facebook: # add your Facebook handle
-social-github:  sojubear # add your Github handle
+social-github: sojubear # add your Github handle
 social-linkedin: fernandezjeremy # add your Linkedin handle
 social-email: sadpandaburger@gmail.com # add your Email address
 
@@ -40,4 +39,3 @@ paginate: 8
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
-
