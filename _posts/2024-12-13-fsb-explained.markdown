@@ -8,7 +8,7 @@ tags: [Russia, Geopolitics] # add tag
 ---
 This article was initially published on 24 July 2024 on Medium
 
-<img src="{{ site.baseurl }}assets\img\posts\1_qqVUR2PrUusDJH52QvgHtg.webp" alt="Description of the image" class="center-image">
+<img src="{{ site.baseurl }}\assets\img\posts\1_qqVUR2PrUusDJH52QvgHtg.webp" alt="Description of the image" class="center-image">
 
 # Understanding the Federal Security Service (FSB) and Its Geopolitical Impact
 
