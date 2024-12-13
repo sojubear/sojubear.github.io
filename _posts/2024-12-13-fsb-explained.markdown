@@ -6,7 +6,6 @@ description:  The FSB’s Role in Balancing Domestic Authority and Global Influe
 img: # Add image post (optional)
 tags: [Russia, Geopolitics] # add tag
 ---
-This article was initially published on 24 July 2024 on Medium
 
 <img src="{{ site.baseurl }}\assets\img\posts\1_qqVUR2PrUusDJH52QvgHtg.webp" alt="Description of the image" class="center-image">
 

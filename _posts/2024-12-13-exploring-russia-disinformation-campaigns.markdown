@@ -6,7 +6,6 @@ description: Exploring the history of such campaigns and its impact # Add post d
 img: # Add image post (optional)
 tags: [Russia, Geopolitics] # add tag
 ---
-This article was initially published on 24 July 2024 on Medium
 
 <img src="{{ site.baseurl }}/assets/img/posts/1_FAPt_lLa1j8Zrlp_wjYZOQ.webp" alt="Description of the image" class="center-image">
 
