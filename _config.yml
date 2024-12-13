@@ -6,13 +6,13 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sojubear.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: https://x.com/SSojubear #if your site has a twitter account, enter it here
+site-twitter:  #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Sojubear # add your name
 author-img: placeholder.jpg # add your photo
 about-author: Security Researcher | Threat Intelligence # add description
-social-twitter: https://x.com/SSojubear # add your Twitter handle
+social-twitter: SSojubear # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github:  # add your Github handle
 social-linkedin: fernandezjeremy # add your Linkedin handle
