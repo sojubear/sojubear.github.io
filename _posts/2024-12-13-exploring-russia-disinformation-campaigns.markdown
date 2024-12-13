@@ -7,6 +7,8 @@ img: # Add image post (optional)
 tags: [Russia, Geopolitics] # add tag
 ---
 
+Exploring the history of such campaigns and its impact
+
 <img src="{{ site.baseurl }}/assets/img/posts/1_FAPt_lLa1j8Zrlp_wjYZOQ.webp" alt="Description of the image" class="center-image">
 
 What is a disinformation campaign? In simple words, its a targeted information attack on an individual or organization. Purposefully misleading information is published using various channels such as social media and fake news websites to twist public opinion, undermine trust and ultimately achieve political/economic objectives.
