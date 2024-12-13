@@ -1,12 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-{% include head.html %}
-<body>
+  {% include head.html %}
+  <body>
+    <div class="wrapper">
+      <div class="sidebar">
+        <ul class="sidebar-links">
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/posts/">Posts</a></li>
+          <li><a href="{{ site.baseurl }}/about/">About Me</a></li>
+        </ul>
+      </div>
+      
+      <div class="main-content">
+        {{ content }}
+      </div>
+    </div>
 
-  <div class="wrapper">
-    {{ content }}
-  </div>
-  
-  {% include analytics.html %}
-</body>
+    {% include analytics.html %}
+  </body>
 </html>
