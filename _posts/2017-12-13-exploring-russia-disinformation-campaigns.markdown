@@ -2,17 +2,16 @@
 layout: post
 title: Exploring Russia’s Disinformation Campaigns
 date: 2017-12-13 00:00:00 +0300
-description: # Add post description (optional)
+description: Exploring the history of such campaigns and its impact # Add post description (optional)
 img: # Add image post (optional)
 tags: [Russia, Geopolitics] # add tag
 ---
-[This article was initially uploaded to the Medium website on 24 July 2024]
 
-![Image]({{site.baseurl}}\assets\img\posts\1_FAPt_lLa1j8Zrlp_wjYZOQ.webp)
+<img src="{{ site.baseurl }}/assets/img/posts/1_FAPt_lLa1j8Zrlp_wjYZOQ.webp" alt="Description of the image" class="center-image">
 
 # Introduction
 
-What is a disinformation campaign? ==In simple words, its a targeted information attack on an individual or organization.== Purposefully misleading information is published using various channels such as social media and fake news websites to twist public opinion, undermine trust and ultimately achieve political/economic objectives.
+What is a disinformation campaign? In simple words, its a targeted information attack on an individual or organization. Purposefully misleading information is published using various channels such as social media and fake news websites to twist public opinion, undermine trust and ultimately achieve political/economic objectives.
 
 One interesting concept that originated from the Russian government is the use of “Kompromat” which comes from “Compromising Material”. It goes back to the People’s Commissariat of Internal Affairs and to the Stalin era. It relies on gathering sensitive information that could ruin the reputation or discredit the actions of individuals and organizations.
 
