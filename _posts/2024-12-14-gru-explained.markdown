@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Understanding Russia’s Intelligence Agencies Part 3 - The GRU explained
-date: 2024-12-14 00:00:00 +0800
+date: 2024-12-14 01:00:00 +0800
 description:  The GRU’s Role in Cyber Espionage and Sabotage # Add post description (optional)
 img: # Add image post (optional)
 tags: [Russia, Geopolitics] # add tag
 ---
 
 <img src="{{ site.baseurl }}\assets\img\posts\gru.webp" alt="Description of the image" class="center-image">
-
-# Russian Intelligence Agencies: The GRU (Main Directorate of the General Staff of the Armed Forces)
 
 This is the last section of my three-part series explaining Russian intelligence agencies. In part one, we discussed the Federal Security Service (FSB), while in part two, we explained the Foreign Intelligence Service (SVR). 
 
