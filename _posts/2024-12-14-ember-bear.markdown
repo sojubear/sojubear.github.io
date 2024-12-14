@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Understanding Russia’s Intelligence Agencies Part 3 - The GRU explained
+title: Introducing the GRU’s Youngest Sibling - Ember Bear
 date: 2024-12-14 02:00:00 +0800
-description:  The GRU’s Role in Cyber Espionage and Sabotage # Add post description (optional)
+description:  A Closer Look at Unit 29155’s Latest Hacking Group # Add post description (optional)
 img: # Add image post (optional)
 tags: [Russia, Geopolitics] # add tag
 ---
