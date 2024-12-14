@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Understanding Russia’s Intelligence Agencies Part 1 - The FSB explained
+title: Understanding Russia’s Intelligence Agencies Part 2 - The SVR explained
 date: 2024-12-13 00:00:00 +0300
-description:  The FSB’s Role in Balancing Domestic Authority and Global Influence # Add post description (optional)
+description:  The SVR’s Role in Espionage, Cyber-Operations and Shaping Russian Foreign Policy # Add post description (optional)
 img: # Add image post (optional)
 tags: [Russia, Geopolitics] # add tag
 ---
 
-<img src="{{ site.baseurl }}\assets\img\posts\1_qqVUR2PrUusDJH52QvgHtg.webp" alt="Description of the image" class="center-image">
+<img src="{{ site.baseurl }}\assets\img\posts\svr.webp" alt="Description of the image" class="center-image">
 
 Russia is a dominant player when it comes to intelligence operations. Among its different agencies, the Federal Security Service (FSB), the Foreign Intelligence Service (SVR), and the Main Intelligence Directorate (GRU) stand out due to their high-impact roles in intelligence gathering and operations. In this article, we will focus on the FSB and understand its roles, notable incidents, and geopolitical impact.
 
