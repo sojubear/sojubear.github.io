@@ -10,7 +10,7 @@ site-twitter:  #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Sojubear # add your name
-author-img: placeholder.jpg # add your photo
+author-img: sojubear.jpg # add your photo
 about-author: |
   Security Researcher | Threat Intelligence | Focused on the Russian threat landscape and adversary infrastructure research. I occasionally cover broader cybersecurity topics and insights on life.
 
