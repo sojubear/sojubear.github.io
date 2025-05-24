@@ -1,7 +1,7 @@
 ---
 title: "Understanding Russia's Intelligence Agencies Part 2: The SVR Explained"
 date: 2024-04-19 00:00:00 +0800
-categories: [Intelligence, Security]
+categories: [Threat Intelligence]
 tags: [russia, svr, intelligence, cybersecurity, espionage, geopolitics]
 author: Jeremy Fernandez
 ---

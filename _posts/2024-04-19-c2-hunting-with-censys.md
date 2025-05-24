@@ -1,7 +1,7 @@
 ---
 title: Let's Hunt for C2 Servers using Censys
 date: 2024-04-19 00:00:00 +0800
-categories: [Threat Intelligence, Cybersecurity]
+categories: [Threat Intelligence]
 tags: [censys, c2, hunting, threat-actors]
 author: SojuBear
 ---

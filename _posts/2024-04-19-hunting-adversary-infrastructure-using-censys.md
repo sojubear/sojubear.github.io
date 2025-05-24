@@ -1,7 +1,7 @@
 ---
 title: "Hunting Adversary Infrastructure using Censys"
 date: 2024-04-19 00:00:00 +0800
-categories: [Security, Threat Hunting]
+categories: [Threat Intelligence]
 tags: [censys, threat-hunting, cybersecurity, malware, c2, infrastructure]
 author: Jeremy Fernandez
 ---
