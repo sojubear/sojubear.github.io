@@ -1,7 +1,7 @@
 ---
 title: "Understanding Russia's Intelligence Agencies Part 1: The FSB Explained"
 date: 2024-04-19 00:00:00 +0800
-categories: [Intelligence, Security]
+categories: [Threat Intelligence]
 tags: [russia, fsb, intelligence, cybersecurity, counterterrorism, geopolitics]
 author: Jeremy Fernandez
 ---
