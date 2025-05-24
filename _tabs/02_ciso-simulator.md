@@ -2,7 +2,7 @@
 layout: page
 icon: fas fa-shield-alt
 order: 2
-title: CISO simulator
+title: CISO Simulator Game
 permalink: /ciso-simulator/
 external_url: https://ciso-simulator.vercel.app/
 ---
