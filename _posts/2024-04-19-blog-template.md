@@ -4,9 +4,6 @@ date: 2024-04-19 00:00:00 +0800
 categories: [Category]
 tags: [tag1, tag2, tag3]     # TAG names should always be lowercase
 author: Your Name
-image:
-  path: /path/to/your/image.jpg  # Optional: Add a featured image
-  alt: Image description        # Optional: Add image description
 ---
 
 # Introduction
