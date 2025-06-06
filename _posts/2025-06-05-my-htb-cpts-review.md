@@ -2,8 +2,8 @@
 title: My HTB CPTS Exam Review
 date: 2025-06-06 00:00:00 +0800
 categories: [Category]
-tags: [tag1, tag2, tag3]     # TAG names should always be lowercase
-author: Sojubear
+tags: [cpts, exam]     # TAG names should always be lowercase
+author: [Sojubear]
 ---
 ## Real talk about Hack The Box's Certified Penetration Testing Specialist exam from someone who barely survived it
 
