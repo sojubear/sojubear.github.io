@@ -1,6 +1,6 @@
 ---
 title: "Exploring Russia's Disinformation Campaigns"
-date: 2024-04-19 00:00:00 +0800
+date: 2024-07-24 00:00:00 +0800
 categories: [Threat Intelligence]
 tags: [russia, disinformation, propaganda, cybersecurity, geopolitics, social-media]
 author: Jeremy Fernandez

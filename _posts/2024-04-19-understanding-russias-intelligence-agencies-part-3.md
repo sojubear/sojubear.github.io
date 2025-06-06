@@ -1,6 +1,6 @@
 ---
 title: "Understanding Russia's Intelligence Agencies Part 3: The GRU Explained"
-date: 2024-04-19 00:00:00 +0800
+date: 2024-09-07 00:00:00 +0800
 categories: [Threat Intelligence]
 tags: [gru, russia, cyber-operations, apt28, sandworm, fancy-bear]
 author: SojuBear

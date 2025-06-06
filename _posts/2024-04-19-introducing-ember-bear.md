@@ -1,6 +1,6 @@
 ---
 title: Introducing the GRU's Youngest Sibling - Ember Bear
-date: 2024-04-19 00:00:00 +0800
+date: 2024-09-16 00:00:00 +0800
 categories: [Threat Intelligence]
 tags: [russia, gru, cyberwarfare, threat-actors, unit-29155, ember-bear, cadet-blizzard]
 author: SojuBear
