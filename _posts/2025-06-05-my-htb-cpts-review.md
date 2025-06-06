@@ -60,7 +60,7 @@ I submitted at 5 AM on day six while completely sleep deprived. In hindsight, I 
 3. Take proper screenshots, keep detailed notes of your attack paths, and save yourself the pain of recreating everything later.
 4. Don't pull all-nighters, I learned this the hard way being exhausted makes everything harder and leads to stupid mistakes.
 
-## ## CPTS vs. OSCP: The Inevitable Comparison
+## CPTS vs. OSCP: The Inevitable Comparison
 
 There's this meme floating around that CPTS passers can handle OSCP, but OSCP holders might struggle with CPTS. Having done both, I think there's truth to that.
 
