@@ -85,7 +85,3 @@ Is it worth it? Absolutely. Would I do it again? Ask me again after I've recover
 Good luck to anyone brave enough to take this on. You're going to need it.
 
 ![CPTS Certificate Page](/public/HTB%20Certified%20Penetration%20Testing%20Specialist_page-0001.jpg)
-
-## Author's Notes
-
-It feels great to be writing again, I've been meaning to get back into writing again but I kept procrastinating. I think one of the fun things about maintaining your own blog is that I get to write in a less formal language and really use my own voice. 
