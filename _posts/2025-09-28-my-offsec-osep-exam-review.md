@@ -37,7 +37,7 @@ The phishing modules were also excellent, covering everything from standard VBA 
 
 And yes, there is **a lot** of C# and PowerShell. While it felt like a grind, I came to appreciate how the course makes you build your own tooling which allows you to understand the underlying functionality of them. A lot of times we are using prepackaged ones without realizing what happens under the hood.
 
-### A Minor Gripe: The Pacing
+# A Minor Gripe: The Pacing
 
 I did feel the materials could be a bit dry and long-winded. Some modules felt like they took too much time to get to the important parts. This might just be my learning style, but it’s something to be aware of if you prefer a faster pace.
 
