@@ -14,7 +14,7 @@ That’s how I landed on OSEP.
 ![BlackHat Banner](/public/osep_blackhat.jpeg)
 *4 days of source code madness*
 
-### What is the PEN-300? You mean the OSCP doesn't make me a 1337 h4ck3r?
+# What is the PEN-300? You mean the OSCP doesn't make me a 1337 h4ck3r?
 
 According to OffSec's [website](https://www.offsec.com/courses/pen-300/):
 
@@ -29,7 +29,7 @@ In practical terms, it picks up right where the PEN-200 leaves off. The curricul
 
 I would highly recommend that you have basic level knowledge of Pentesting before you attempt this course or exam, something along the lines of OSCP-level knowledge. The course goes deep on a lot of topics that you might have trouble following without prior experience. You should be comfortable with your enumeration and privilege escalation workflows and already know how to use tools like Impacket and NetExec.
 
-### What I Loved: The Realism
+# What I Loved: The Realism
 
 PEN-300 forces you to confront a reality many courses ignore: modern defenses are _on by default_. You’re not attacking boxes where Defender has been conveniently disabled. You’re actively fighting against AMSI, CLM, and AppLocker. It forces a mindset shift away from just throwing `shell1.exe, shell2.exe, shell3.exe` at a target and hoping for a callback. You have to consider your payload's signature, its behavior, and its delivery mechanism before you even think about executing.
 
@@ -43,7 +43,7 @@ I did feel the materials could be a bit dry and long-winded. Some modules felt l
 
 But other than that, I felt like the course was relatively well written and i could (eventually) understand the concepts that they were teaching
 
-### My Exam Prep (Or Lack Thereof)
+# My Exam Prep (Or Lack Thereof)
 
 I’d read in multiple reviews that proficiency with a good C2 framework is non-negotiable. This gave me a good opportunity to finally learn the Sliver C2 Framework, although a friend did recommend something more _Mythical_.
 
@@ -63,7 +63,8 @@ That "serious wall" isn't just a figure of speech. I came to a grinding halt and
 *Sometimes, the "Try Harder" mentality leads you straight into a wall.*
 
 So, after about a month and a half into my course materials, I decided to book the exam. I told myself it would be a low-pressure 'recon run' to just get a feel of how the environment exam was like. But it quickly turned into a try-hard session when my ego took over.
-### The Exam Gauntlet : I've never felt so much pain in my life
+
+# The Exam Gauntlet : I've never felt so much pain in my life
 
 The exam started brutally. I had random disconnects and very spotty connections during my first 6 hours. I wasted time assuming my methodology was flawed before support confirmed a wonky VPN connection. 
 
@@ -75,14 +76,14 @@ Oh, did I mention? BloodHound CE broke on me too, forcing me to fall back to goo
 
 My take? The exam is challenging but an extremely fair assessment. Aside from the unstable machines, the difficulty didn't come from rabbit holes. Instead, the challenge is in how you understand and apply the course materials under pressure. Every single vector and technique was mostly covered in the PEN-300 course, with a healthy amount of fundamentals from the PEN-200. Unlike the OSCP, I had no need to look for other materials during the course of the exam, just the original PEN-300 ones and my Sliver Cheatsheet.
 
-### My Advice for Taking the OSEP
+# My Advice for Taking the OSEP
 
 1. **Master a Modern C2.** The course focuses on Metasploit, but for OPSEC-aware engagements, you need more. Learn Sliver, Mythic, or something comparable. Understand its payload generation, its traffic profiles, and its post-exploitation capabilities intimately.
 2. **Threat Model the Course Syllabus and Exam Reviews.** Read the syllabus and check out other user reviews. Understand the hidden meaning behind their words and you'll get a feel for which topics are more critical than others. But don't ignore the rest; every topic is fair game.
 3. **When in Doubt, Revert.** I cannot stress this enough. Don't be afraid to revert a machine if you're stuck. Sometimes things just break, and a fresh start can magically reveal the path forward.
 4. **It's a Marathon, Not a Sprint.** 48 hours is a long time. The exam isn’t designed to send you down rabbit holes. If a vector feels too complicated, it usually is the wrong one. Take breaks, manage your mental state, and trust your methodology.
 
-### Conclusion: Is OSEP Worth It?
+# Conclusion: Is OSEP Worth It?
 
 So, after the burnout and battling a demonic VPN, was the OSEP worth it?
 
