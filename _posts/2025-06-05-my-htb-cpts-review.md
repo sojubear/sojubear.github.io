@@ -4,10 +4,6 @@ description: Real talk about Hack The Box's Certified Penetration Testing Specia
 date: 2025-06-06 00:00:00 +0800
 categories: [Course Review]
 tags: [cpts, exam]     # TAG names should always be lowercase
-author: Sojubear
-pin: false
-math: true
-mermaid: true
 image: "/public/cpts.webp"
 ---
 ## Real talk about Hack The Box's Certified Penetration Testing Specialist exam from someone who barely survived it

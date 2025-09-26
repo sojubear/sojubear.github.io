@@ -2,7 +2,6 @@
 title: Let's Hunt for C2 Servers using Censys
 date: 2024-09-17 00:00:00 +0800
 categories: [Threat Intelligence]
-author: Sojubear
 image: "/public/censys.jpg"
 ---
 ⚠️ **This post is outdated. Censys has recently changed their query syntax from Censys Search Language(CSL) to the new Censys Query Langauge(CQL) for their new platform.**

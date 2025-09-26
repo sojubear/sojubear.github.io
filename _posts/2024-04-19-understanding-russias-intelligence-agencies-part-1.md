@@ -2,7 +2,6 @@
 title: "Understanding Russia's Intelligence Agencies Part 1: The FSB Explained"
 date: 2024-08-05 00:00:00 +0800
 categories: [Threat Intelligence]
-author: Sojubear
 ---
 
 # Understanding Russia's Intelligence Agencies Part 1: The FSB Explained

@@ -2,7 +2,6 @@
 title: "Hunting Adversary Infrastructure using Censys"
 date: 2024-07-20 00:00:00 +0800
 categories: [Threat Intelligence]
-author: Sojubear
 image: "/public/censys.jpg"
 ---
 

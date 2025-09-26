@@ -2,7 +2,6 @@
 title: "Exploring Russia's Disinformation Campaigns"
 date: 2024-07-24 00:00:00 +0800
 categories: [Threat Intelligence]
-author: Sojubear
 image: "/public/rus_disinfo.webp"
 ---
 

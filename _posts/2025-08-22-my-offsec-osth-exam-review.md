@@ -3,11 +3,7 @@ title: My OSTH Exam Review
 description: Threat Hunting with Kali Linux and Why the Random Side Quest?
 date: 2025-08-22 00:00:00 +0800
 categories: [Course Review]
-tags: [osth, offsec, threat hunting, exam]
-author: Sojubear
-pin: false
-math: true
-mermaid: true
+tags: [osth, offsec, threat hunting, exam] 
 image: "/public/Course-TH-200.png"
 ---
 
