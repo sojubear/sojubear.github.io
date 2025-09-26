@@ -3,7 +3,7 @@ title: "Understanding Russia's Intelligence Agencies Part 3: The GRU Explained"
 date: 2024-09-07 00:00:00 +0800
 categories: [Threat Intelligence]
 author: Sojubear
-image : "/publc/fancy_bear.png"
+image: "/public/fancy_bear.png"
 ---
 
 # Introduction

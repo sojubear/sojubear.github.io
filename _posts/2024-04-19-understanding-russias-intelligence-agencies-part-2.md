@@ -3,7 +3,7 @@ title: "Understanding Russia's Intelligence Agencies Part 2: The SVR Explained"
 date: 2024-08-15 00:00:00 +0800
 categories: [Threat Intelligence]
 author: Sojubear
-image : "/publc/cozy_bear.png"
+image: "/public/cozy_bear.png"
 ---
 
 # Understanding Russia's Intelligence Agencies Part 2: The SVR Explained
