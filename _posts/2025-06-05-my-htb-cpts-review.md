@@ -8,7 +8,7 @@ author: Sojubear
 pin: false
 math: true
 mermaid: true
-image: "/public/lv58zP0Nc1rigRR47QTY0v21HfHBkBGe.jpg"
+image: "/public/cpts.webp"
 ---
 ## Real talk about Hack The Box's Certified Penetration Testing Specialist exam from someone who barely survived it
 

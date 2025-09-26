@@ -8,7 +8,7 @@ author: Sojubear
 pin: false
 math: true
 mermaid: true
-image: "/public/osth.svg"
+image: "/public/Course-TH-200.png"
 ---
 
 # Threat Hunting with Kali Linux and Why the Random Side Quest?
