@@ -3,7 +3,7 @@ title: "Cybersecurity Burnout Simulator - A Game for Awareness"
 description: "Cybersecurity Burnout Simulator - A Game for Awareness"
 date: 2025-02-09 00:00:00 +0800
 categories: [Projects]
-image: /public/ciso_main.png
+image: "/public/ciso_main.png"
 ---
 
 # Cybersecurity Burnout Simulator - A Game for Awareness
