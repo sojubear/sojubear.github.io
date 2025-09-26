@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 # Who am I?
@@ -17,21 +17,21 @@ This blog is pretty much my public notebook. You’ll find a mix of my latest cy
 My journey has been fueled by a constant need to learn, adapt, and test my limits. I see certifications as structured challenges that push me to sharpen my skills. Below is a map of my journey so far, from foundational knowledge to advanced offensive techniques.
 
 ### Management & Strategy
-(ISC)² Certified Information Systems Security Professional (CISSP)
-ISACA Certified Information Security Manager (CISM)
+- (ISC)² Certified Information Systems Security Professional (CISSP)
+- ISACA Certified Information Security Manager (CISM)
 
 ### Offensive Security & Red Teaming
-OffSec Experienced Penetration Tester (OSEP)
-OffSec Certified Professional (OSCP)
-OffSec Wireless Professional (OSWP)
-SANS GIAC Red Team Professional (GRTP)
-Hack The Box Certified Penetration Testing Specialist (CPTS)
+- OffSec Experienced Penetration Tester (OSEP)
+- OffSec Certified Professional (OSCP)
+- OffSec Wireless Professional (OSWP)
+- SANS GIAC Red Team Professional (GRTP)
+- Hack The Box Certified Penetration Testing Specialist (CPTS)
 
 ### Defense, Threat Hunting & Incident Response
-OffSec Threat Hunter (OSTH)
-SANS GIAC Certified Incident Handler (GCIH)
+- OffSec Threat Hunter (OSTH)
+- SANS GIAC Certified Incident Handler (GCIH)
 
 ### Foundational
-AWS Certified Cloud Practitioner (CCP)
-CompTIA Security+
-CompTIA Network+
+- AWS Certified Cloud Practitioner (CCP)
+- CompTIA Security+
+- CompTIA Network+
