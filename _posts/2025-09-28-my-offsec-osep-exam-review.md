@@ -51,7 +51,7 @@ These were some of the resources that I used:
 
 - Hack The Box's [Intro to C2 Operations with Sliver](https://academy.hackthebox.com/module/details/241)
 - This incredibly useful [Sliver Cheatsheet](https://github.com/Anon-Exploiter/sliver-cheatsheet)
-- Bishop Fox's blogpost: ["Passing the OSEP exam using Sliver"](https://bishopfox.com/blog/passing-the-osep-exam-using-sliver)
+- Bishop Fox's blogpost: [Passing the OSEP exam using Sliver](https://bishopfox.com/blog/passing-the-osep-exam-using-sliver)
 
 I don't recall using a lot of other external resources in preparation for the exam, the course does its job well in teaching you what to look out for. What I did however, was to properly prepare the scripts that I needed for the exam (which were properly covered in the course). And also to understand the different commands of how Sliver worked. I actually felt like I spent more time playing around with Sliver than on preparing for the exam.
 
@@ -70,7 +70,7 @@ The exam started brutally. I had random disconnects and very spotty connections 
 
 Then came a real hard `#%$#$` blocker. I had tried all the enumeration vectors from the course but was unable to progress. 30 hours in, I was panicking and started lobbing random enumeration queries, hoping for a Hail Mary. As if on cue, a separate, wonky machine forced me to revert the entire exam environment. After the reset, I went back and tried one of my earliest queries, one of the very first I had attempted. And I instantly found my attack vector. Honestly, I did not know if I should be angry or relieved.
 
-After that breakthrough, every box fell easily, and I secured slightly more than enough flags to pass. Unfortunately, the time lost to the VPN and the finicky box meant the `secrets.txt` was out of reach. With 10 hours left, I was too mentally drained to push further.
+After that breakthrough, every box fell easily, and I secured slightly more than enough flags to pass. Unfortunately, the time lost to the VPN and the finicky box meant the elusive `secrets.txt` was out of reach. With 10 hours left, I was too mentally drained to push further.
 
 Oh, did I mention? BloodHound CE broke on me too, forcing me to fall back to good old PowerView.
 
