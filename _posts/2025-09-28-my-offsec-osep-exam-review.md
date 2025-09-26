@@ -1,7 +1,7 @@
 ---
 title: My OSEP Exam Review
-description: Threat Hunting with Kali Linux and Why the Random Side Quest?
-date: 2025-09-28 00:00:00 +0800
+description: A Journey Through Study Burnout and Wonky VPNs
+date: 2025-09-27 00:00:00 +0800
 categories: [Course Review]
 tags: [osep, offsec, exam] 
 image: "/public/Course-PEN-300.png"
