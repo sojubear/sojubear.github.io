@@ -1,6 +1,6 @@
 ---
 title: How to Tame Your Cursor AI
-description: How to use GitHub's Spec Kit to tame your Cursor AI
+description: How GitHub's Spec Kit Fixed My AI Coding Workflow
 date: 2025-10-03 00:00:00 +0800
 categories: [AI]
 tags: [cursor, ai]
