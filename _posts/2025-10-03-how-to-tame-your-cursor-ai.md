@@ -4,10 +4,8 @@ description: How GitHub's Spec Kit Fixed My AI Coding Workflow
 date: 2025-10-03 00:00:00 +0800
 categories: [AI]
 tags: [cursor, ai]
-image: "/public/spec_kit.webp"
+image: "/public/hehe.png"
 ---
-
-### How GitHub's Spec Kit Fixed My AI Workflow
 
 ![spec_kit.webp](/public/spec_kit.webp)
 
