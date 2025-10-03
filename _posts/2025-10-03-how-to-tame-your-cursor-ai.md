@@ -9,13 +9,13 @@ image: "/public/wat.png"
 
 ![spec_kit.webp](/public/spec_kit.webp)
 
-I think many of us who work with AI coding assistants have fallen into the trap of "vibe coding." I know I have. I'd start a project with a clear idea in my head, give the AI a few prompts, and hope it could read my mind. For simple scripts, this sometimes worked. But the moment complexity crept in, the context window would inevitably get polluted. I've seen my AI partner refactor my Neo4j apis into oblivion, hallucinate entire functions that broke the call stack, and yes, it did drop my database tables too.
+I think many of us who work with AI coding assistants have fallen into the trap of "vibe coding." I know I have. I'd start a project with a clear idea in my head, give the AI a few prompts, and hope it could read my mind. For simple scripts, this sometimes worked. But the moment complexity crept in, the context window would inevitably get polluted. I've seen my AI partner refactor my Neo4j apis into oblivion, hallucinate entire functions that broke my entire system, and yes, it did drop my database tables too.
 
 So many times my AI would go off-course, forgetting the initial request and creating a tangled mess of code. I spent way more time trying to debug what the AI did and re-educate it on the context than I'd care to admit. 
 
 # Discovering GitHub's Spec Kit
 
-I can't remember who shared this with me, but I recently discovered [GitHub's Spec Kit](https://github.com/github/spec-kit). It's a super cool tool that introduces "Spec-Driven Development". It currently has over 30,000 stars on GitHub
+I can't remember who shared this with me, but I recently discovered [GitHub's Spec Kit](https://github.com/github/spec-kit). It's a super cool tool that introduces "Spec-Driven Development". It currently has over 30,000 stars on GitHub.
 
 According to the Repo:
 ![SDD](/public/SDD.png)
@@ -43,7 +43,7 @@ Although it does take a longer time because now I have to force myself to think 
 
 ![SPTI](/public/SPTI.png)
 
-I use a four step process which brings me from a high level concept to a code that is (hopefully) deployable. 
+I use a four step process which brings me from a high level concept to a code that is deployable. 
 
 1. **Specify (`/specify`):** This is where I define the "what" and "why." I provide a high-level goal, and the AI helps me flesh it out into a `spec.md` file. It creates a structured document with sections for `Execution Flow`, `Functional Requirements`, and crucially, certain `Edge Cases`.
 
@@ -53,7 +53,7 @@ I use a four step process which brings me from a high level concept to a code th
 
 4. **Implement:** Now the code gets created, using the `/implement` command. I can now tackle one task at a time. I will usually feed a specific task to the AI, and because the scope is so tightly defined and backed by the spec and plan files, the generated code is relatively accurate and fits within the established architecture. Alternatively, I can just YOLO and let the AI agent take the wheel and implement the entire project and test it in one go. 
 
-Do note: This isn't a silver bullet which allows you to one-shot coding projects. There will definitely still be bugs and no matter how good your prompts are, there will always be a high chance that you forget to mention a small feature/api route that might vastly change the technical structure. There will still be some debugging and back and forth with my AI Agent.
+Do note: This isn't a silver bullet which allows you to one-shot coding projects. There will definitely still be bugs and no matter how good your prompts are, there will always be a high chance that you forget to mention a small feature/api route that might vastly change the technical structure. I always ended up having some back and forth debugging conversation with the AI Agent.
 
 # TLDR
 
