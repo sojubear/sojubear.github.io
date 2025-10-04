@@ -1,5 +1,5 @@
 ---
-title: How to Tame Your Cursor AI
+title: How to Tame Your AI Coding Agent
 description: How GitHub's Spec Kit Fixed My AI Coding Workflow
 date: 2025-10-03 00:00:00 +0800
 categories: [AI]
@@ -38,7 +38,7 @@ This brings a much needed engineering discipline to my workflow:
 
 3. My development workflow and speed is far more predictable now that I have a structured workflow that I can apply to any project. 
    
-Although it does take a longer time because now I have to force myself to think about what I actually want my project to achieve and all the technical specifications to get there before I even start my first prompt. I end up saving a lot more time in the future because i do not need to constantly remind the agent on what is expected of them.
+Although it does take a longer time because now I have to force myself to think about what I actually want my project to achieve and all the technical specifications to get there before the first line of code is written. I end up saving a lot more time in the future because i do not need to constantly remind the agent on what is expected of them.
 
 ## My Process using GitHub's Spec Kit
 
