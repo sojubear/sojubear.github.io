@@ -54,12 +54,12 @@ I use a four step process which brings me from a high level concept to the imple
 
 4. **Implement (`/implement`):** Now the code gets created, using the `/implement` command. I can now tackle one task at a time. I will usually feed a specific task to the AI, and because the scope is so tightly defined and backed by the spec and plan files, the generated code is relatively accurate and fits within the established architecture. Alternatively, I can just YOLO and let the AI agent take the wheel and implement the entire project and test it in one go. 
 
-**Do note: This isn't a silver bullet which allows you to one-shot coding projects. There will definitely still be bugs and no matter how good your prompts are, there will always be a high chance that you forget to mention a small feature/api route that might vastly change the technical structure. I always ended up having some back and forth debugging conversation with the AI Agent.**
+**It's important to note that this isn’t a silver bullet for one-shot coding projects. You will still encounter bugs. Furthermore, no matter how detailed your prompts are, you might forget a small feature or API route that forces significant structural changes. I found that some back-and-forth debugging with the AI was still a necessary part of the process.**
 
 ## TLDR
 
-The GitHub Spec Kit has really changed the way I prototype my projects. No more prompting Gemini to give me a half-baked Product Requirements Document (PRD) that my AI agent and even myself won't follow. No more constantly reminding them about context that we spoke about just two prompts ago. 
+The GitHub Spec Kit has really changed the way I prototype my projects. No more prompting Gemini to give me a half-baked Product Requirements Document (PRD) that my AI agent and even I won't follow. No more constantly reminding them about context that was talked about only two prompts ago. 
 
-It has brought me a certain level of engineering rigor when it comes to AI assisted development. By forcing me to slow down and think about my specifications upfront, it changes my AI partner into a creative yet wildly unpredictable partner into a very effective tool. I have so far tested this on a new project and an existing one, and I am certain that now, I have better control, the code quality has improved, and I'm spending more time building instead of debugging hallucinations. 
+It has brought me a certain level of engineering rigor when it comes to AI assisted development. By forcing me to slow down and think about my specifications upfront, it changes my AI partner from a creative yet wildly unpredictable partner into a very effective tool. I have so far tested this on a new project and an existing one, and I am certain that now, I have better control, the code quality has improved, and I'm spending more time building instead of debugging hallucinations. 
 
-If you've felt the same frustrations with AI coding assistants, I highly recommend integrating Spec Kit into your workflow. It's a glimpse into the future of how human developers and AI will collaborate to build truly great software.
+If you've felt the same frustrations with AI coding assistants, I highly recommend integrating Spec Kit into your workflow. It represents a necessary shift towards a more structured and intentional partnership between developers and AI.
