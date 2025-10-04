@@ -13,7 +13,7 @@ I know I have, I'd start a project with a clear idea in my head, give the AI a f
 
 So many times my AI would go off-course, forgetting the initial request and creating a tangled mess of code. I spent way more time trying to debug what the AI did and re-educate it on the context than I'd care to admit. 
 
-# Discovering GitHub's Spec Kit
+## Discovering GitHub's Spec Kit
 
 I can't remember who shared this with me, but I recently discovered [GitHub's Spec Kit](https://github.com/github/spec-kit). It's a super cool tool that introduces "Spec-Driven Development" into your AI agent's development workflow. It currently has over 30,000 stars on GitHub.
 
@@ -40,7 +40,7 @@ This brings a much needed engineering discipline to my workflow:
    
 Although it does take a longer time because now I have to force myself to think about what I actually want my project to achieve and all the technical specifications to get there before I even start my first prompt. I end up saving a lot more time in the future because i do not need to constantly remind the agent on what is expected of them.
 
-# My Process using GitHub's Spec Kit
+## My Process using GitHub's Spec Kit
 
 ![SPTI](/public/SPTI.png)
 
@@ -56,7 +56,7 @@ I use a four step process which brings me from a high level concept to the imple
 
 **Do note: This isn't a silver bullet which allows you to one-shot coding projects. There will definitely still be bugs and no matter how good your prompts are, there will always be a high chance that you forget to mention a small feature/api route that might vastly change the technical structure. I always ended up having some back and forth debugging conversation with the AI Agent.**
 
-# TLDR
+## TLDR
 
 The GitHub Spec Kit has really changed the way I prototype my projects. No more prompting Gemini to give me a half-baked Product Requirements Document (PRD) that my AI agent and even myself won't follow. No more constantly reminding them about context that we spoke about just two prompts ago. 
 
