@@ -7,9 +7,9 @@ tags: [cursor, ai]
 image: "/public/wat.png"
 ---
 
-![spec_kit.webp](/public/spec_kit.webp)
+I think many of us who work with AI coding assistants understand the challenges and frustration that comes along when your code gets too big and complicated. 
 
-I think many of us who work with AI coding assistants have fallen into the trap of "vibe coding." I know I have. I'd start a project with a clear idea in my head, give the AI a few prompts, and hope it could read my mind. For simple scripts, this sometimes worked. But the moment complexity crept in, the context window would inevitably get polluted. I've seen my AI partner refactor my Neo4j apis into oblivion, hallucinate entire functions that broke my system, and yes, it did drop my database tables too.
+I know I have, I'd start a project with a clear idea in my head, give the AI a few prompts, and hope it could read my mind. What followed was a frustrating cycle: hours spent debugging hallucinated functions, re-explaining core requirements, and trying to undo elegantly written code that completely missed the point.
 
 So many times my AI would go off-course, forgetting the initial request and creating a tangled mess of code. I spent way more time trying to debug what the AI did and re-educate it on the context than I'd care to admit. 
 
@@ -22,17 +22,17 @@ According to the Repo:
 ![SDD](/public/SDD.png)
 
 
-It has changed how I interact with Cursor for my coding projects. The Spec Kit is a framework for defining your project's intent before it even writes the first line of code. What it does is that it creates a specification document, usually a `spec.md` file, that becomes an anchor point during the entire project.
+It has changed how I interact with Cursor for my coding projects. The Spec Kit is a framework for defining your project's intent before your AI agent even writes the first line of code. At a high level, what it does is that it creates a specification document, usually a `spec.md` file, that becomes an anchor point during the entire project.
 
 ### **How it's been helping me:**
 
 This specification file acts as a way to prevent my AI from forgetting my requirements. It is loaded into the context for every subsequent request, which reduces the chance that the AI agent will forget the context and hallucinate.
 
-This spec document contains everything from Acceptance Scenarios to granular technical requirements. This allows the AI agent to understand clearly what I'm setting out to achieve.
+This document contains everything from Acceptance Scenarios to granular technical requirements. This allows the AI agent to understand clearly what I'm setting out to achieve.
 
-This brings a much-needed engineering discipline to my workflow:
+This brings a much needed engineering discipline to my workflow:
 
-1. Instead of guessing what the user (me) wants, the AI now constantly references a detailed spec sheet with defined criteria that we agreed upon beforehand.
+1. Instead of guessing what the user (me) wants, the AI agent now constantly references a detailed spec sheet with defined criteria that we agreed upon beforehand.
  
 2. The AI is less likely to forget important information or introduce potential deviations deep in the development cycle because now it has the spec sheet to use as a constant reference point.
 
@@ -58,7 +58,7 @@ I use a four step process which brings me from a high level concept to a code th
 
 # TLDR
 
-The GitHub Spec Kit has really changed the way I prototype my projects. No more prompting Gemini to give me a half-baked Product Requirements Document (PRD) that my AI Agent and even myself won't follow. No more constantly reminding AI about context that we spoke about just two prompts ago. 
+The GitHub Spec Kit has really changed the way I prototype my projects. No more prompting Gemini to give me a half-baked Product Requirements Document (PRD) that my AI agent and even myself won't follow. No more constantly reminding AI about context that we spoke about just two prompts ago. 
 
 It has brought me a certain level of engineering rigor when it comes to AI assisted development. By forcing me to slow down and think about my specifications upfront, it changes my AI partner into a creative yet wildly unpredictable partner into a very effective tool. I have so far tested this on a new project and an existing one, and I am certain that now, I have better control, the code quality has improved, and I'm spending more time building instead of debugging hallucinations. 
 
